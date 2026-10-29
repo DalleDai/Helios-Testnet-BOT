@@ -124,7 +124,7 @@ python3 bot2.py
 
 Consider supporting our work:
 
-- **EVM:** `0x3b94Ff1611773171E06047C0041099CccCFC609F`
+- **EVM:** `0xd07Ac11e9b2590d3788Cd9e2f833034C9555178e`
 
 ---
 
