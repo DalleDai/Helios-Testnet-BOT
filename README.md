@@ -55,7 +55,7 @@ Automate your journey through Helios ecosystem projects - Testnet operations and
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/cryptodai3/Helios-Testnet-BOT.git
+git clone https://github.com/DalleDai/Helios-Testnet-BOT.git
 cd Helios-Testnet-BOT
 ```
 
